@@ -1,0 +1,1 @@
+export const ReadingListCheck: RegExp = /<H3 FOLDED id="com\.apple\.ReadingList">Reading List<\/H3>(.+)<\/DL>/

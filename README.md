@@ -1,3 +1,5 @@
+b9af046a-7259-42cb-8fa8-9eafc3b1dde7
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
